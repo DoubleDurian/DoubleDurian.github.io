@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>World Meme</h1>
+<p>Database</p>
+</body>
+</html>
