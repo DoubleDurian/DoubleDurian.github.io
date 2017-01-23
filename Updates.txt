@@ -1,0 +1,6 @@
+Date:1/23/2017
+Added Nav pills
+Added routing
+Added Das Home page, Nick home page, Haseeb home page components
+Added Updates.txt
+==============
